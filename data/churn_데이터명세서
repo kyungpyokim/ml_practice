@@ -1,0 +1,29 @@
+타깃(클래스)
+
+Churn : 1=이탈, 0=유지
+
+특징(입력 변수)
+
+Age : 나이
+
+Tenure_Months : 가입기간(개월)
+
+Monthly_Fee : 월 요금
+
+Total_Usage_GB : 최근 사용량(GB)
+
+Support_Tickets_3M : 최근 3개월 CS 문의 건수
+
+Late_Payments_6M : 최근 6개월 연체 횟수
+
+Contract : 계약 형태(Month-to-month / 1-year / 2-year)
+
+AutoPay : 자동결제(0/1)
+
+Internet_Type : 회선(Fiber/DSL/5G)
+
+Has_Addon : 부가서비스(0/1)
+
+NPS_Score : 만족도 점수(-100~100)
+
+Region : 지역(Seoul/Metro/Other)

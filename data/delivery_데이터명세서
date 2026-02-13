@@ -1,0 +1,35 @@
+타깃(예측할 값)
+
+Delivery_Time_min : 주문 후 고객에게 도착하기까지 총 소요 시간(분)
+
+특징(입력 변수) 예시
+
+Distance_km : 거리(km)
+
+Prep_Time_min : 음식 준비시간(분)
+
+Riders_Available : 주변 가용 라이더 수(명)
+
+Order_Queue : 매장 주문 적체(건)
+
+Weather : 날씨(맑음/비/눈/안개)
+
+Rain_mm : 강수량(mm)
+
+Temp_C : 기온(°C)
+
+Wind_mps : 풍속(m/s)
+
+Rush_Hour : 러시아워 여부(0/1)
+
+DayOfWeek : 요일(0=월 … 6=일)
+
+Time_Slot : 시간대(Morning/Lunch/Afternoon/Dinner/Night)
+
+Vehicle : 배달수단(Bike/Scooter/Car)
+
+Road_Type : 도로환경(Downtown/Suburban/Highway)
+
+Promo : 프로모션 여부(0/1)
+
+Tip_Level : 팁 수준(0~3)

@@ -1,0 +1,21 @@
+군집에 쓸 특징(입력 변수)
+
+Recency_Days : 마지막 구매 후 경과일(작을수록 최근)
+
+Frequency_90D : 최근 90일 구매 횟수
+
+Monetary_90D : 최근 90일 구매금액(원)
+
+Avg_Basket : 평균 객단가(원)
+
+Discount_Ratio : 할인 구매 비율(0~1)
+
+Return_Ratio : 반품 비율(0~1)
+
+Web_Visits_30D : 최근 30일 방문횟수
+
+App_Sessions_30D : 앱 세션 수
+
+Review_Score : 리뷰 평균(1~5)
+
+Region : 지역(범주형, 군집 전에 인코딩/제외 선택)
