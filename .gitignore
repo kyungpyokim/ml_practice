@@ -9,3 +9,5 @@ wheels/
 # Virtual environments
 .venv
 .mypy*
+
+.DS_Store
